@@ -1,0 +1,12 @@
+name = "free-png-to-svg"
+compatibility_date = "2024-11-01"
+
+[assets]
+directory = "./out"
+binding = "ASSETS"
+html_handling = "auto-trailing-slash"
+not_found_handling = "none"
+
+[[routes]]
+pattern = "free-png-to-svg.web-free.site"
+custom_domain = true

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://free-png-to-svg.web-free.site/sitemap.xml
