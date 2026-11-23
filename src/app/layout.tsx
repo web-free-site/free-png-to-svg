@@ -49,13 +49,13 @@ export default function RootLayout({
       <head>
         <Script
           id="ad-popunder"
-          src="https://abscloud.org/1/wf23placeholder0popunder00000000"
+          src="https://abscloud.org/1/08f89f89f6b70a25f24ba15520914699"
           strategy="afterInteractive"
           data-cfasync="false"
         />
         <Script
           id="ad-social-bar"
-          src="https://bauval.org/14/wf23placeholder0socialbar0000000"
+          src="https://bauval.org/14/6a1fadbbced57e5959a1ab96d3246599"
           strategy="afterInteractive"
           data-cfasync="false"
         />
