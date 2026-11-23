@@ -120,7 +120,7 @@ const MORE_TOOLS = `
   </style>
   <h2 id="wf-mt-title">More free tools</h2>
   <p class="wf-mt-lead">These utilities run in your browser. Browse the full list on <a href="${hub}">web-free.site</a>.</p>
-  <div class="wf-mt-grid">${grid}</div>
+  <div class="wf-mt-grid">${grid}<h3>Time</h3><ul><li><a href="https://free-time-zone-converter.web-free.site/?ref=png-to-svg">Free Time Zone Converter</a></li></ul><h3>Drawing</h3><ul><li><a href="https://free-whiteboard.web-free.site/?ref=png-to-svg">Free Whiteboard</a></li></ul><h3>Random &amp; pickers</h3><ul><li><a href="https://free-spin-wheel.web-free.site/?ref=png-to-svg">Free Spin Wheel</a></li></ul></div>
 </aside>`;
 
 const ANALYTICS = `<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3e2f5f96ab32442ebb6e6f650615b58a"}'></script><!-- End Cloudflare Web Analytics -->`;
