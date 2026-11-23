@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/generate-sitemap.mjs && node scripts/inject-more-tools.mjs",
+    "build": "next build && node scripts/generate-sitemap.mjs && node scripts/inject-more-tools.mjs && node scripts/inject-hub-legal.mjs",
     "start": "npx serve out",
     "lint": "oxlint --nextjs-plugin --react-plugin --jsx-a11y-plugin --vitest-plugin .",
     "lint:fix": "oxlint --nextjs-plugin --react-plugin --jsx-a11y-plugin --vitest-plugin --fix .",
