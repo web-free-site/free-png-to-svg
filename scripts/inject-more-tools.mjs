@@ -32,7 +32,7 @@ const links = {
     ["https://free-passport-photo-maker.web-free.site/", "Free Passport Photo Maker"],
   ],
   calculators: [
-    ["https://free-online-calculator.web-free.site/", "Free Online Calculator"],
+    ["https://free-online-calculator.web-free.site/en/", "Free Online Calculator"],
     ["https://free-currency-converter.web-free.site/", "Free Currency Converter"],
     ["https://free-unit-converter.web-free.site/", "Free Unit Converter"],
     ["https://free-loan-calculator.web-free.site/", "Free Loan Calculator"],
